@@ -5,6 +5,11 @@
 ![Screenshot 2: Search](screenshots/holmium-search.png)
 ![Screenshot 3: WinSxS](screenshots/holmium-winsxs.png)
 
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPLv3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![PySide2](https://img.shields.io/badge/PySide2-5.15-green.svg)](https://pypi.org/project/PySide2/)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey.svg)]()
+
 **Holmium** is a fast, minimalist, and cross-platform propietary (commercial) file manager written in Python using PySide2 (Qt).
 
 Inspired by the aesthetics of VSCode Dark+ and the functionality of Total Commander, Holmium is designed for those who lack the speed and convenience of standard Windows Explorer.

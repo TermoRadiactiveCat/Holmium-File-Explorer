@@ -25,6 +25,7 @@ Inspired by the aesthetics of VSCode Dark+ and the functionality of Total Comman
 *   **Advanced Drag & Drop**: File dragging with a custom "ghost" and `Ctrl` support for copying.
 *   **Dark Theme**: Unified interface in the VSCode style (light theme is comming soon).
 *   **FTP Client**: Connection with smartphone.
+*   **HACM/ACM (YPACMv2)**: Access color mark for system folders, files (red), see: Settings: Enable ACM.
 
 ## 🚀 Installation and Launch
 

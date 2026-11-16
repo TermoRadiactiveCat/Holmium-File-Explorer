@@ -5,7 +5,7 @@
 ![Screenshot 2: Search](screenshots/holmium-search.png)
 ![Screenshot 3: WinSxS](screenshots/holmium-winsxs.png)
 
-**Holmium** is a fast, minimalist, and cross-platform propietary (commercial) file manager written in Python using PySide2 (Qt).
+**Holmium** is a fast, minimalist, and cross-platform propietary (commercial) file manager written in Python using PySide2 (Qt). **The program's source code is neither distributed not supported, in order to protect against unauthorized modifications.** **Holmium** is an official continuation of the old YellowPather line of file managers, based on the YellowPather-Lite core.
 
 Inspired by the aesthetics of VSCode Dark+ and the functionality of Total Commander, Holmium is designed for those who lack the speed and convenience of standard Windows Explorer.
 

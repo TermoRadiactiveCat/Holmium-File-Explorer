@@ -1,4 +1,9 @@
-﻿# Holmium File Explorer
+﻿[![License: LGPL v3](https://img.shields.io/badge/License-LGPLv3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![PySide2](https://img.shields.io/badge/PySide2-5.15-green.svg)](https://pypi.org/project/PySide2/)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey.svg)]()
+
+# Holmium File Explorer
 
 ![Holmium Logo](assets/holmium-logo.png)
 ![Screenshot 1: Settings](screenshots/holmium-settings.png)

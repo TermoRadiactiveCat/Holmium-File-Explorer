@@ -3,7 +3,7 @@
   <img src="docs/assets/icons/logo/holmium-logo.png" alt="Holmium Logo" width="200"/>
   
   <h1>Holmium File Explorer</h1>
-  <p><b>A fast, minimalist, cross-platform commercial file manager built with Python & PySide2.</b></p>
+  <p><b>A fast, minimalist, Windows commercial file manager built with Python & PySide2.</b></p>
 
   <!-- БЕЙДЖИ -->
   <a href="https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Framework-PySide2-green.svg" alt="PySide2">
   </a>
   <a href="https://learn.microsoft.com/en-us/windows/">
-    <img src="https://img.shields.io/badge/OS-Windows%2010%2F11-0078D6.svg" alt="Windows">
+    <img src="https://img.shields.io/badge/OS-Windows%2007%2008%2010%2F11-0078D6.svg" alt="Windows">
   </a>
   <a href="EULA.md">
     <img src="https://img.shields.io/badge/License-Proprietary-red.svg" alt="License">

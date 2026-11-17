@@ -53,7 +53,7 @@
 2. Download the latest `Holmium.exe` (or the binary for your platform).
 3. Run the executable. **No Python installation is required.**
 
-> **Note for macOS/Linux:** Builds for these platforms are provided on a best-effort basis. The primary target is Windows 7/8/10/11.
+> **Note for macOS/Linux:** No supported. The primary target is Windows 7/8/10/11.
 
 ## 🧬 Relationship to YellowPather-Lite
 

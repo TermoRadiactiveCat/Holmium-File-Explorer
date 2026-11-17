@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Framework-PySide2-green.svg" alt="PySide2">
   </a>
   <a href="https://learn.microsoft.com/en-us/windows/">
-    <img src="https://img.shields.io/badge/OS-Windows%2007%2008%2010%2F11-0078D6.svg" alt="Windows">
+    <img src="https://img.shields.io/badge/OS-Windows%207%2F8%2F10%2F11-0078D6.svg" alt="Windows">
   </a>
   <a href="EULA.md">
     <img src="https://img.shields.io/badge/License-Proprietary-red.svg" alt="License">

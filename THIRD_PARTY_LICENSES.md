@@ -1,3 +1,4 @@
+```markdown
 # Third-Party Software Notices and Information
 
 **Holmium File Explorer**
@@ -140,4 +141,87 @@ SOFTWARE.
 
 ---
 
+5. rarfile
+
+· Version: 4.x
+· License: ISC
+· Copyright: Copyright (c) 2005-2024 Marko Kreen
+· Project URL: https://github.com/markokr/rarfile
+
+Purpose in this project
+
+Used to read RAR archives. rarfile is a pure-Python wrapper that invokes the bundled UnRAR.exe binary (see section 6) for actual decompression.
+
+License Text (ISC)
+
+```text
+Copyright (c) 2005-2024 Marko Kreen
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
+IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+```
+
+---
+
+6. UnRAR
+
+· Version: bundled binary, bin/UnRAR.exe (from RARLAB)
+· License: UnRAR freeware license (custom, see text below)
+· Copyright: Copyright (C) Alexander Roshal
+· Project URL: https://www.rarlab.com/rar_add.htm
+
+Purpose in this project
+
+UnRAR.exe is bundled as a command-line helper and is invoked by rarfile to decompress RAR archives. It is not used to create RAR archives, and the RAR compression algorithm is not reimplemented in this software.
+
+License Text (UnRAR)
+
+```text
+UnRAR is a freeware. You can use it freely for any legal purposes.
+The UnRAR sources may be used in any software to handle RAR archives
+without limitations free of charge, but cannot be used to re-create
+the RAR compression algorithm, which is proprietary. Distribution of
+modified UnRAR sources in separate form or as a part of other software
+is permitted, provided that it is clearly stated in the documentation
+and source that the UnRAR sources may be used only for RAR decompression.
+
+This software is provided "as is", without warranty of any kind, either
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and noninfringement.
+In no event shall the authors or copyright holders be liable for any
+claim, damages or other liability, whether in an action of contract,
+tort or otherwise, arising from, out of or in connection with the
+software or the use or other dealings in the software.
+
+The full and current text of the UnRAR license is available at:
+https://www.rarlab.com/license.htm
+```
+
+---
+
+7. Python Standard Library modules (no separate license required)
+
+This software uses the following modules from the Python Standard Library:
+
+· zipfile — ZIP archive handling
+· tarfile — TAR, TAR.GZ, TAR.BZ2, TAR.XZ archive handling
+· shutil, os, pathlib, subprocess, json, threading, etc.
+
+These modules are distributed as part of the Python interpreter itself and are covered by the Python Software Foundation License (PSF-2.0), not by a separate component license. Full text: https://docs.python.org/3/license.html
+
+Note: If this software is distributed as a frozen bundle (e.g., built with PyInstaller), the Python interpreter itself is included in the distribution. In that case, the PSF License applies to the bundled interpreter. The notice above is retained for completeness.
+
+---
+
 This file is provided for informational purposes only and does not modify the terms of the EULA or the LGPL-3.0.
+
+```

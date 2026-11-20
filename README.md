@@ -12,7 +12,7 @@
 
   <!-- БЕЙДЖИ -->
   <a href="https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases">
-    <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg" alt="Version">
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python">
@@ -41,12 +41,15 @@
   <p><i>VSCode dark+ like theme and TC like functional. Light theme in processing now.</i></p>
 </div>
 
+### What's new in version 1.0.1:
+- **Archive Handling** - Added extractor for RAR/TAR formats (unrarw64.exe/tarfile).
+
 ### ✨ Key Features
 - **Blazing Fast** — Instant folder opening with tens of thousands of files (built on QListView + background threads).
 - **Tabs & History** — Multiple tabs with independent navigation history.
 - **Built-in Search** — Recursive search by mask (`r_*.ext`, `r_**.ext`, `search .ext`, `search .ext --recursive`) without relying on the heavy Windows indexer.
 - **Command Palette** — Invoke system windows and commands via `holmium://settings`, `holmium://about`, `holmium://search ...`, `holmium://ftp`.
-- **Archive Handling** — Built-in ZIP packing/unpacking with a progress bar (without RAR support).
+- **Archive Handling** — Built-in ZIP packing/unpacking and RAR/TAR unpacking with a progress bar.
 - **Text Editor** — Built-in editor with syntax highlighting for Python & JSON. Other languages will be supported later.
 - **Advanced Drag & Drop** — Custom "ghost" visualization with `Ctrl` support for copying.
 - **FTP Client** — Direct connection to your smartphone (only FTP without SFTP).
@@ -91,12 +94,15 @@ For commercial licensing inquiries, bug reports, or feature requests:
   <p><i>Тёмная тема в стиле VSCode dark+ и функционал в духе Total Commander. Светлая тема в разработке.</i></p>
 </div>
 
+### Что нового в версии 1.0.1:
+**Работа с архивами** - Добавлен распаковщик для форматов типа RAR/TAR (unrarw64.exe/tarfile).
+
 ### ✨ Ключевые возможности
 - **Молниеносная скорость** — Мгновенное открытие папок с десятками тысяч файлов (на базе QListView и фоновых потоков).
 - **Вкладки и история** — Несколько вкладок с независимой историей навигации.
 - **Встроенный поиск** — Рекурсивный поиск по маске (`r_*.ext`, `r_**.ext`, `search .ext`, `search .ext --recursive`) без использования тяжелого индексатора Windows.
 - **Командная палитра** — Вызов системных окон и команд через `holmium://settings`, `holmium://about`, `holmium://search ...`, `holmium://ftp`.
-- **Работа с архивами** — Встроенная упаковка/распаковка ZIP с индикатором прогресса (без поддержки RAR).
+- **Работа с архивами** — Встроенная упаковка/распаковка ZIP, распаковка RAR/TAR с индикатором прогресса.
 - **Текстовый редактор** — Встроенный редактор с подсветкой синтаксиса для Python и JSON. Другие языки будут добавлены позже.
 - **Продвинутый Drag & Drop** — Собственная визуализация «призрака» файла с поддержкой `Ctrl` для копирования.
 - **FTP-клиент** — Прямое подключение к смартфону (только FTP, без SFTP).

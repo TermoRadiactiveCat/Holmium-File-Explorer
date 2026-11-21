@@ -62,8 +62,8 @@
 3. Run `Holmium.exe`. **No Python installation is required.**
 
 ### Previous versions:
-1. [Holmium Bell v1.0.0](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/Holmium-Bell-v1.0.0)
-2. [Holmium Bell v1.0.1](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/Holmium-Bell-v1.0.1)
+1. [Holmium Bell v1.0.0](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.0)
+2. [Holmium Bell v1.0.1](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.1)
 
 > **Note for macOS/Linux:** Not supported. The primary target is Windows 7/8/10/11.
 
@@ -120,8 +120,8 @@ For commercial licensing inquiries, bug reports, or feature requests:
 3. Запустите `Holmium.exe`. **Установка Python не требуется.**
 
 ### Предыдущие версии:
-1. [Holmium Bell v1.0.0](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/Holmium-Bell-v1.0.0)
-2. [Holmium Bell v1.0.1](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/Holmium-Bell-v1.0.1)
+1. [Holmium Bell v1.0.0](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.0)
+2. [Holmium Bell v1.0.1](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.1)
 
 > **Примечание для macOS/Linux:** Не поддерживается. Основная цель — Windows 7/8/10/11.
 

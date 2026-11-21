@@ -41,8 +41,9 @@
   <p><i>VSCode dark+ like theme and TC like functional. Light theme in processing now.</i></p>
 </div>
 
-### What's new in version 1.0.1:
-- **Archive Handling** - Added extractor for RAR/TAR formats (unrarw64.exe/tarfile).
+### What's new in version 1.0.2:
+- **Archive Handling** - Support unpacking for RAR/TAR formats (unrarw64.exe - RAR, tarfile - TAR).
+- **FTP-Client** - Support FTP/FTPS/SFTP protocols. FTPS explicit only.
 
 ### ✨ Key Features
 - **Blazing Fast** — Instant folder opening with tens of thousands of files (built on QListView + background threads).
@@ -52,13 +53,17 @@
 - **Archive Handling** — Built-in ZIP packing/unpacking and RAR/TAR unpacking with a progress bar.
 - **Text Editor** — Built-in editor with syntax highlighting for Python & JSON. Other languages will be supported later.
 - **Advanced Drag & Drop** — Custom "ghost" visualization with `Ctrl` support for copying.
-- **FTP Client** — Direct connection to your smartphone (only FTP without SFTP).
+- **FTP Client** — Direct connection to your smartphone with support FTP/FTPS/SFTP protocols.
 - **HACM/ACM (YPACMv2)** — Custom access color marking for system folders and files (*Settings → Enable ACM*).
 
 ### 📦 Installation & Usage
 1. Go to the [Releases](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases) page.
 2. Download the latest `Holmium.zip` archive and extract it to any convenient folder.
 3. Run `Holmium.exe`. **No Python installation is required.**
+
+### Previous versions:
+1. [Holmium Bell v1.0.0](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/Holmium Bell v1.0.0)
+2. [Holmium Bell v1.0.1](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/Holmium Bell v1.0.1)
 
 > **Note for macOS/Linux:** Not supported. The primary target is Windows 7/8/10/11.
 
@@ -94,8 +99,9 @@ For commercial licensing inquiries, bug reports, or feature requests:
   <p><i>Тёмная тема в стиле VSCode dark+ и функционал в духе Total Commander. Светлая тема в разработке.</i></p>
 </div>
 
-### Что нового в версии 1.0.1:
-**Работа с архивами** - Добавлен распаковщик для форматов типа RAR/TAR (unrarw64.exe/tarfile).
+### Что нового в версии 1.0.2:
+**Работа с архивами** - Добавлен распаковщик для форматов типа RAR/TAR (unrarw64.exe - RAR, tarfile - TAR).
+**FTP-клиент** - Добавлена поддержка протоколов FTP/FTPS/SFTP. FTPS только explicit.
 
 ### ✨ Ключевые возможности
 - **Молниеносная скорость** — Мгновенное открытие папок с десятками тысяч файлов (на базе QListView и фоновых потоков).
@@ -105,13 +111,17 @@ For commercial licensing inquiries, bug reports, or feature requests:
 - **Работа с архивами** — Встроенная упаковка/распаковка ZIP, распаковка RAR/TAR с индикатором прогресса.
 - **Текстовый редактор** — Встроенный редактор с подсветкой синтаксиса для Python и JSON. Другие языки будут добавлены позже.
 - **Продвинутый Drag & Drop** — Собственная визуализация «призрака» файла с поддержкой `Ctrl` для копирования.
-- **FTP-клиент** — Прямое подключение к смартфону (только FTP, без SFTP).
+- **FTP-клиент** — Прямое подключение к смартфону: протоколы FTP/FTPS/SFTP.
 - **HACM/ACM (YPACMv2)** — Пользовательская цветовая маркировка прав доступа для системных папок и файлов (*Настройки → Включить ACM*).
 
 ### 📦 Установка и использование
 1. Перейдите на страницу [Релизов](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases).
 2. Скачайте последний архив `Holmium.zip` и распакуйте его в любую удобную папку.
 3. Запустите `Holmium.exe`. **Установка Python не требуется.**
+
+### Предыдущие версии:
+1. [Holmium Bell v1.0.0](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/Holmium Bell v1.0.0)
+2. [Holmium Bell v1.0.1](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/Holmium Bell v1.0.1)
 
 > **Примечание для macOS/Linux:** Не поддерживается. Основная цель — Windows 7/8/10/11.
 

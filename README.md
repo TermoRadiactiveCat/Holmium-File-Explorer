@@ -12,7 +12,7 @@
 
   <!-- БЕЙДЖИ -->
   <a href="https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases">
-    <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/Version-1.0.2-blue.svg" alt="Version">
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python">

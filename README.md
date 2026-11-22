@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <h1>Holmium File Explorer</h1>
+  <h1>Holmium File Explorer Bell v1.0.3</h1>
   <p><b>A fast, minimalist, Windows-only commercial file manager built with Python & PySide2.</b></p>
 
   <p>
@@ -12,7 +12,7 @@
 
   <!-- БЕЙДЖИ -->
   <a href="https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases">
-    <img src="https://img.shields.io/badge/Version-1.0.2-blue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/Version-1.0.3-blue.svg" alt="Version">
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python">
@@ -38,12 +38,11 @@
   <img src="docs/screenshots/holmium-search.png" alt="Holmium Search" width="800"/>
   <img src="docs/screenshots/holmium-settings.png" alt="Holmium Settings" width="800"/>
   <img src="docs/screenshots/holmium-winsxs.png" alt="Holmium WinSxS" width="800"/>
-  <p><i>VSCode dark+ like theme and TC like functional. Light theme in processing now.</i></p>
+  <p><i>VSCode Dark+/VSCode Light+ like theme, TC like functional.</i></p>
 </div>
 
-### What's new in version 1.0.2:
-- **Archive Handling** - Support unpacking for RAR/TAR formats (unrarw64.exe - RAR, tarfile - TAR).
-- **FTP-Client** - Support FTP/FTPS/SFTP protocols. FTPS explicit only.
+### What's new in version 1.0.3:
+- **Light Theme** - Support VSCode Light+ like theme style.
 
 ### ✨ Key Features
 - **Blazing Fast** — Instant folder opening with tens of thousands of files (built on QListView + background threads).
@@ -55,6 +54,7 @@
 - **Advanced Drag & Drop** — Custom "ghost" visualization with `Ctrl` support for copying.
 - **FTP Client** — Direct connection to your smartphone with support FTP/FTPS/SFTP protocols.
 - **HACM/ACM (YPACMv2)** — Custom access color marking for system folders and files (*Settings → Enable ACM*).
+- **Bulk Rename** - Bulk renaming for selected files group with support templates.
 
 ### 📦 Installation & Usage
 1. Go to the [Releases](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases) page.
@@ -64,6 +64,7 @@
 ### Previous versions:
 1. [Holmium Bell v1.0.0](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.0)
 2. [Holmium Bell v1.0.1](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.1)
+2. [Holmium Bell v1.0.2](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.2)
 
 > **Note for macOS/Linux:** Not supported. The primary target is Windows 7/8/10/11.
 
@@ -96,12 +97,11 @@ For commercial licensing inquiries, bug reports, or feature requests:
   <img src="docs/screenshots/holmium-search.png" alt="Поиск в Holmium" width="800"/>
   <img src="docs/screenshots/holmium-settings.png" alt="Настройки Holmium" width="800"/>
   <img src="docs/screenshots/holmium-winsxs.png" alt="Holmium WinSxS" width="800"/>
-  <p><i>Тёмная тема в стиле VSCode dark+ и функционал в духе Total Commander. Светлая тема в разработке.</i></p>
+  <p><i>Тёмная и светлая тема в стиле VSCode Dark+/VSCode Light+, функционал в духе Total Commander.</i></p>
 </div>
 
-### Что нового в версии 1.0.2:
-**Работа с архивами** - Добавлен распаковщик для форматов типа RAR/TAR (unrarw64.exe - RAR, tarfile - TAR).
-**FTP-клиент** - Добавлена поддержка протоколов FTP/FTPS/SFTP. FTPS только explicit.
+### Что нового в версии 1.0.3:
+- **Светлая тема** - Добавлена светлая тема в стиле VSCode Light+.
 
 ### ✨ Ключевые возможности
 - **Молниеносная скорость** — Мгновенное открытие папок с десятками тысяч файлов (на базе QListView и фоновых потоков).
@@ -113,6 +113,7 @@ For commercial licensing inquiries, bug reports, or feature requests:
 - **Продвинутый Drag & Drop** — Собственная визуализация «призрака» файла с поддержкой `Ctrl` для копирования.
 - **FTP-клиент** — Прямое подключение к смартфону: протоколы FTP/FTPS/SFTP.
 - **HACM/ACM (YPACMv2)** — Пользовательская цветовая маркировка прав доступа для системных папок и файлов (*Настройки → Включить ACM*).
+- **Групповая замена (Bulk Renaming)** - Групповое переименовывание выделенных файлов, по заданным шаблонам.
 
 ### 📦 Установка и использование
 1. Перейдите на страницу [Релизов](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases).
@@ -122,6 +123,7 @@ For commercial licensing inquiries, bug reports, or feature requests:
 ### Предыдущие версии:
 1. [Holmium Bell v1.0.0](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.0)
 2. [Holmium Bell v1.0.1](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.1)
+3. [Holmium Bell v1.0.2](https://github.com/TermoRadiactiveCat/Holmium-File-Explorer/releases/v1.0.2)
 
 > **Примечание для macOS/Linux:** Не поддерживается. Основная цель — Windows 7/8/10/11.
 
